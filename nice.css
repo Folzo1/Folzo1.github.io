@@ -2,7 +2,7 @@
 
 
 body {
-    background-color: #2d4d73;
+    background-color: #2f4e75;
     font-family: 'Inter', sans-serif;
   }
 
@@ -33,7 +33,7 @@ body {
   
   /* Add a color to the active/current link */
   .topnav a.active {
-    background-color: #d3d3d3;
+    background-color: #2f4e75;
     color: rgb(0, 0, 0);
   }
 
